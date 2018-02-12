@@ -1,11 +1,56 @@
 fileFormatVersion: 2
-guid: d02a2f6b4cbe30949a3138b96fcca271
+guid: 2e8b6341fb4192b458ebd5a3b7066e59
+timeCreated: 1518451569
+licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    4300000: Group1
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanLCalf
+    100006: Base HumanLFoot
+    100008: Base HumanLPlatform
+    100010: Base HumanLThigh
+    100012: Base HumanNeck
+    100014: Base HumanPelvis
+    100016: Base HumanRCalf
+    100018: Base HumanRFoot
+    100020: Base HumanRibcage
+    100022: Base HumanRPlatform
+    100024: Base HumanRThigh
+    100026: Base HumanSpine
+    100028: Base HumanTail1
+    100030: Base HumanTail1 1
+    100032: Base HumanTail2
+    100034: Base HumanTail2 1
+    100036: body
+    100038: //RootNode
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanLCalf
+    400006: Base HumanLFoot
+    400008: Base HumanLPlatform
+    400010: Base HumanLThigh
+    400012: Base HumanNeck
+    400014: Base HumanPelvis
+    400016: Base HumanRCalf
+    400018: Base HumanRFoot
+    400020: Base HumanRibcage
+    400022: Base HumanRPlatform
+    400024: Base HumanRThigh
+    400026: Base HumanSpine
+    400028: Base HumanTail1
+    400030: Base HumanTail1 1
+    400032: Base HumanTail2
+    400034: Base HumanTail2 1
+    400036: body
+    400038: //RootNode
+    4300000: body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
   animations:
@@ -44,11 +89,11 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 0
+    useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 180
-    normalImportMode: 1
-    tangentImportMode: 4
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -68,7 +113,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
